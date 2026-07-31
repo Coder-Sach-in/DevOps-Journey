@@ -76,7 +76,7 @@ Every day's lab is divided by weeks and days, separating conceptual notes (`.md`
 ## 🛠️ Verification & Execution Blueprint
 To verify the scripts locally in any Linux platform, pull this source down and execute using native shells:
 ```bash
-git clone https://github.com<your-username>/<your-repo-name>.git
+git clone https://github.com/Coder-Sach-in/DevOps-Journey.git
 cd my-devops-journey
 ```
 
